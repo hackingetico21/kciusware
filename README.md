@@ -10,3 +10,7 @@ cd kciusware
 chmod +x 
 sudo bash install.sh
 ...
+Installation
+To install and run this proyect just type and execute
+
+npm install
